@@ -2,7 +2,19 @@
 fast_tutorial
 =============
 
-This is the documentation of **fast_tutorial**.
+This project is a training project, where I want to learn how I develop FastAPI projects. I have been taking other classes, reading PEPs, trying some things out for myself. There were too many questions, and I was taking too long to finish basic tasks because this didn't exist in one place.
+
+What you can expect from this project:
+
+* Training on structuring a project so that new features require linear effort. even when the project gets large.
+* Examples of test-driven practices that work well with Docker and the various levels of the system.
+* Discussion around the supporting systems, like tox, Docker, Sphinx, diagrams, and automation scripts.
+* Links to the PEPs involved, why they are important, and how to maintain a consistent system.
+* Demonstration of architectural integrity, or how to develop in layers so that the system remains testable.
+* Ideas about developing in cycles, being kind to your mind as you take these things on.
+
+At some point, I'll wrap these lessons into a Feed and provide an interactive tutorial based on what I'm learning here. 
+
 
 .. note::
 
@@ -35,6 +47,7 @@ Contents
    Authors <authors>
    Changelog <changelog>
    Module Reference <api/modules>
+   Questions <questions>
 
 
 Indices and tables
