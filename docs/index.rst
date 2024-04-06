@@ -50,6 +50,7 @@ Contents
    Questions <questions>
    Humane Coding <humane_coding>
    Domain <domain>
+   Post-Scaffold Checklist <py_scaffold>
 
 
 Indices and tables
