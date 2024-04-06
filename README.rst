@@ -81,6 +81,24 @@ In our case, we have two containers running: one for the FastAPI application and
 
 Because this is a tutorial repository, I will show you how to do this for your own projects.
 
+Roadmap
+-------
+
+This is the general plan for the project, likely to change dramatically:
+
+* 0.1.0: Initial release
+* 0.2.0: Examples run a few times, updated instructions
+* 0.3.0: Diagrams and visual artifacts added
+* 0.4.0: Deeper explanations, more data storage and container options
+* 0.5.0: Reviewed and updated
+* 1.0.0: Simulacra-based release (interactive examples using an LLM and online presentation)
+
+Contributing
+------------
+Contributions are welcome! Please see the `Contributing Guide <CONTRIBUTING.md>`_ for more details.
+
+Always remember to be kind and respectful to yourself, `Humane Coding <humane>`. Then, do the same for others.
+
 .. _pyscaffold-notes:
 
 Note
