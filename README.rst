@@ -97,7 +97,7 @@ Contributing
 ------------
 Contributions are welcome! Please see the `Contributing Guide <CONTRIBUTING.md>`_ for more details.
 
-Always remember to be kind and respectful to yourself, `Humane Coding <humane_coding>`. Then, do the same for others.
+Always remember to be kind and respectful to yourself, `Humane Coding <./docs/humane_coding.rst>`_ . Then, do the same for others.
 
 .. _pyscaffold-notes:
 
