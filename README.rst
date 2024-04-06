@@ -48,6 +48,39 @@ There are a lot of resources I've used to get my projects running:
 
 If I can remember what the standard way to use these are, that would be wonderful. Since I can't, I wrote a tutorial to learn the material more deeply and leave a reference for later.
 
+Project Setup
+-------------
+
+To get started, you'll need to clone the respository:
+
+.. code-block:: bash
+
+    git clone git@github.com:davidrichards/fast_template.git
+
+Then, you'll need to install the dependencies. I like to do this in a conda environment, because I work with an M1 Mac.
+
+.. code-block:: bash
+
+    conda create -n fast_tutorial python=3.9
+    conda activate fast_tutorial
+    pip install -r requirements.txt 
+
+At this point, you should be able to run the tests:
+
+.. code-block:: bash
+
+    tox
+
+If the tests pass, you're ready to start the server:
+
+.. code-block:: bash
+
+    make run
+
+In our case, we have two containers running: one for the FastAPI application and one for the database. The FastAPI application is running on port 8000, and the database is running on port 5432.
+
+Because this is a tutorial repository, I will show you how to do this for your own projects.
+
 .. _pyscaffold-notes:
 
 Note

@@ -30,3 +30,5 @@ At the top of the generated file are a some badges. If you want to leave them co
 
 You're going to want to write a short description. What I like to do is write this, then change the Github project description to match. It's one less thing to bug me later if I forget. Notice how the short description is indented. That's for formatting reasons.
 
+The longer description tends to be a good moment for humane coding: take some time to think through what you're doing and why. What it's doing is creating an arch in your mind that makes it easier to get ready for coding sessions. Cold starts are rough on the mind and nerves.
+
