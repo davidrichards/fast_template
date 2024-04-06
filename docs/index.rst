@@ -48,6 +48,8 @@ Contents
    Changelog <changelog>
    Module Reference <api/modules>
    Questions <questions>
+   Humane Coding <humane_coding>
+   Domain <domain>
 
 
 Indices and tables
