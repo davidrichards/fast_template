@@ -1,6 +1,6 @@
 import pytest
 
-from fast_tutorial.domain import value_objects as model
+from fast_tutorial.blog.domain import value_objects as model
 
 
 class TestBody:

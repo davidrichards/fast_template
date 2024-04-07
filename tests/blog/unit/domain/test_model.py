@@ -1,7 +1,7 @@
 import pytest
 
-from fast_tutorial.domain import model
-from fast_tutorial.domain.value_objects import Body, Title
+from fast_tutorial.blog.domain import model
+from fast_tutorial.blog.domain.value_objects import Body, Title
 
 
 class TestComment:
